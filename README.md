@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Rust and TypeScript.
+- - 📫 How to reach me: pwislowski@hotmail.com
 <!--
 **pwislowski/pwislowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
