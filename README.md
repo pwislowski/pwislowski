@@ -1,7 +1,9 @@
 ### Hi there 👋
+I am a Python and TypeScript developer with strong expertise in Finance.
 
-- 🌱 I’m currently learning Rust and TypeScript.
+- 🌱 I’m currently learning Rust.
 - 📫 How to reach me: pwislowski@hotmail.com
+- 👯 I’m looking to collaborate on Automated Trading Projects on both centralized and decentralized exchange platforms.
 <!--
 **pwislowski/pwislowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
