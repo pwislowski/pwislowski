@@ -1,11 +1,14 @@
-### Hi there 👋
-I am a freelance developer with strong expertise in Finance.
+I’m a freelance software developer with a background in finance — combining analytical thinking with clean, data-driven software design.
 
-- 📫 How to reach me: pwislowski@hotmail.com
-- 👯 I’m looking to collaborate on Automated Trading Projects on both centralized and decentralized exchange platforms.
+- 💻 I build backend systems in Python, focusing on automation, data pipelines, financial modeling, and operational excellence.
 
-### Skills
-![](https://devicons.dev.br/icons?icon=VSCode,TypeScript,TailwindCSS,Svelte,Rust,Python,NodeJS,MongoDB,NeoVim,Markdown,Linux,JavaScript,Heroku,Git,CSS,HTML,PostgreSQL,AWS&size=48&theme=dark&perline=7)
+- 📊 Experienced in Power BI, data integration, and database design for efficient reporting and insights.
+
+- ⚙️ Interested in cloud deployment, optimization, and modern web frameworks like Svelte.
+
+- 🌍 Based in the UK, working with clients across Europe.
+
+- 📫 Reach me at pwislowski@gmail.com
 
 <!--
 **pwislowski/pwislowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
